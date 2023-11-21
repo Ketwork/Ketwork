@@ -27,8 +27,8 @@ const KET = {
 
 ```
 
-## Stats 📈
-![ketwork's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ketwork&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+<!-- ## Stats 📈
+![ketwork's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ketwork&theme=dracula&show_icons=true&hide_border=true&layout=compact) -->
 
 
 ## 🛠️ My favorite languages and tools
