@@ -1,6 +1,6 @@
 ### Hi there I'm Ket Patel 👋
 
-- 👀 I’m a Software Developer specialising in Python and JavaScript
+- 👀 Specialising in Python and JavaScript
 - 🔭 I’m currently working on full stack development projects
 - 📫 How to reach me: <ketz555@hotmail.com>
 
